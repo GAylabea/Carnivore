@@ -1,0 +1,16 @@
+{
+  "herbivores": [
+  {
+    "name": "lizard",
+    "family": "reptile"
+  },
+  {
+    "name": "frog",
+    "family": "amphibian"
+  },
+  {
+    "name": "vegetarian",
+    "family": "homo sapiens"
+  }
+  ]
+}

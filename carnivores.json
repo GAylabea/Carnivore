@@ -1,0 +1,16 @@
+{
+  "carnivores": [
+  {
+    "name": "lion",
+    "family": "feline"
+  },
+   {
+    "name": "cat",
+    "family": "feline"  
+  },
+ {
+    "name": "dog",
+    "family": "canine"  
+   }
+  ]
+}
